@@ -78,15 +78,19 @@ def D_approx(z: int) -> float:
 3. **Error growth**: Relative error increases from +46.6% at $x=10^6$ to +177.6% at $x=10^7$
 
 ## 📖 Citation
+## 学术引用
+当您使用本代码时，请同时引用：
 ```bibtex
-@misc{shi2024constructive,
-  title={A Constructive Heuristic Sieve for the Twin Prime Problem}, 
-  author={Yuhang Shi},
-  year={2025},
-  eprint={arXiv:2507.03107},
-  url={https://arxiv.org/abs/2507.03107}
+@software{shi_pi2_verificationlab_2024,
+  author       = {Shi, Yuhang},
+  title        = {{Pi2\_VerificationLab}: Computational toolkit for twin prime sieve analysis},
+  month        = jul,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.15857682},
+  url          = {https://doi.org/10.5281/zenodo.15857682}
 }
-```
 
 ## 📜 License
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
