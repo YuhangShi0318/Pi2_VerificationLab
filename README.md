@@ -78,8 +78,6 @@ def D_approx(z: int) -> float:
 3. **Error growth**: Relative error increases from +46.6% at $x=10^6$ to +177.6% at $x=10^7$
 
 ## 📖 Citation
-## 学术引用
-当您使用本代码时，请同时引用：
 ```bibtex
 @software{shi_pi2_verificationlab_2024,
   author       = {Shi, Yuhang},
