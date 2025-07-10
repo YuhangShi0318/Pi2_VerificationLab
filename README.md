@@ -4,6 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2507.03107-b31b1b.svg)](https://arxiv.org/abs/2507.03107)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15857682.svg)](https://doi.org/10.5281/zenodo.15857682)
 
 Companion code for the paper:  
 **"A Constructive Heuristic Sieve for the Twin Prime Problem"**  
