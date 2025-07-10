@@ -81,7 +81,7 @@ def D_approx(z: int) -> float:
 @misc{shi2024constructive,
   title={A Constructive Heuristic Sieve for the Twin Prime Problem}, 
   author={Yuhang Shi},
-  year={2024},
+  year={2025},
   eprint={arXiv:2507.03107},
   url={https://arxiv.org/abs/2507.03107}
 }
